@@ -157,9 +157,11 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
+  bigdecimal
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.4.1)
   jekyll-feed (~> 0.12)
+  json
   minima (~> 2.5)
   tzinfo (>= 1, < 3)
   tzinfo-data
